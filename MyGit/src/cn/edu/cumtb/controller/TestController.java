@@ -11,4 +11,8 @@ public class TestController {
 		System.out.println("aaaaaaaaaaaaa");
 	}
 
+	public static void f() {
+		System.out.println("新增方法！");
+	}
+
 }
